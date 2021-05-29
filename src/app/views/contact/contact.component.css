@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kristi&display=swap');
+
+.container h2 {
+    font-family: 'Kristi', cursive;
+    font-weight: 400;
+    font-size: 67px;
+}
+
+.header {
+    min-height: 80vh;
+}
+
